@@ -1,0 +1,16 @@
+<suite name="Suite">
+  <test name="Test">
+  <groups>
+  
+  <run>
+  <include name = "sanity"/>
+  <include name = "regression"/>
+  </run>
+  
+  <classes>
+  <class name = "reports.ClassG"/>
+  </classes>
+  
+  </groups>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

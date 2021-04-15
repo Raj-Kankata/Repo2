@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner_RunWithSingleTag" project="CucumberJava" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="StepDefinitions.TestRunner_RunWithSingleTag" time="0.42">
+    <testsuite name="Feature to demo tags" time="0.42">
+      <testcase name="Sample 2" classname="Feature to demo tags" time="0.408"/>
+      <testcase name="Sample 5" classname="Feature to demo tags" time="0.012"/>
+    </testsuite>
+  </testsuite>
+</testrun>
